@@ -20,20 +20,20 @@
 
         <!-- CSS & FontAwesome -->
         <!-- <link rel="stylesheet" href="/css/all.css"/>  -->
-        <link rel="stylesheet" href="/css/main.css"/> 
-        <link rel="stylesheet" href="/css/jquery-ui.css"/> 
-        <link rel="stylesheet" href="/css/bootstrap.css"/>
-        <link rel="stylesheet" href="/css/login.css"/>  
+        <link rel="stylesheet" href="/public/css/main.css"/> 
+        <link rel="stylesheet" href="/public/css/jquery-ui.css"/> 
+        <link rel="stylesheet" href="/public/css/bootstrap.css"/>
+        <link rel="stylesheet" href="/public/css/login.css"/>  
         
         <!-- jQuery and Boostraps -->
-        <script src="js/all.js"></script>
+        <script src="/js/all.js"></script>
 
     </head>
 
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="/"> Logo
-                <img src="/imgs/logo.png" alt="Logo" width="30" height="30" class="logo"/>
+            <a class="navbar-brand" href="/public/"> Logo
+                <img src="/public/imgs/logo.png" alt="Logo" width="30" height="30" class="logo"/>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -41,16 +41,16 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul class="navbar-nav justify-content-end">
                     <li class="nav-item">
-                        <a class="nav-link active" href="/about.php">About Us</a>
+                        <a class="nav-link active" href="/public/about.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                            <a class="nav-link" href="/help.php">Help</a>
+                            <a class="nav-link" href="/public/help.php">Help</a>
                         </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/includes/signup.php">Sign Up</a>
+                        <a class="nav-link" href="/public/includes/signup.php">Sign Up</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/includes/login.php">Log In</a>
+                        <a class="nav-link" href="/public/includes/login.php">Log In</a>
                     </li>
                 </ul>
             </div>  

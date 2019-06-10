@@ -1,5 +1,5 @@
+<?php include '../private/initialize.php'; ?>      
 <?php include 'includes/header.php'; ?>
-            
         <header>
             <form class="findDriver" action="" method="">
                 <h1>Self Traveling</h1>

@@ -1,3 +1,4 @@
+<?php include '../private/initialize.php'; ?>      
 <?php include 'includes/header.php'?>
     <main>
         <p>nothing here yet!!</p>
